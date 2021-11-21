@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://evnv.dev"
 languageCode = "en"
 title = "Hugo Kiss theme"
 theme = "kiss"
